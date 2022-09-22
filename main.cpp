@@ -145,7 +145,7 @@ int main(int argc, char const *argv[])
 
 void login()
 {
-	string pass = "";
+	string pass = "pass123";
 	char ch;
 	cout << "\n\n\n\n\t\t\t\t     Medical Billing Software";
 	cout << "\n\n\n\n\n\n\n\t\t\t\t\tEnter Password: ";
